@@ -1,0 +1,12 @@
+{
+  "name": "ScanLink Pro",
+  "description": "A professional network scanner interface to digitize documents and save images in multiple formats directly from your printer.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "Network Connectivity",
+    "Image Processing",
+    "PDF Generation"
+  ]
+}
